@@ -32,6 +32,6 @@ if high > low:
     else:
         print("Enter 'up' or 'down'")
 else:
-    print('High must always be greater than Low!!!!!')
+    print('High entered must always be greater than Low entered!!!!!')
 
     
